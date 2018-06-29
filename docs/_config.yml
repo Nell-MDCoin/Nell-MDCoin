@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Nell-MDCoins
+tagline:          'The cryptocurrency for Nell'
+url:              https://justdvnsh.github.io/nell-mdcoins
+
+author:
+  name:           'Divyansh Dwivedi'
+  url:            https://twitter.com/justdvnsh2208
+
+paginate:         1
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/justdvnsh/nell-mdcoins
